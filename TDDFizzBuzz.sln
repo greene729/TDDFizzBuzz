@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDFizzBuzz", "TDDFizzBuzz\TDDFizzBuzz.csproj", "{F28FEC4E-0B61-418E-9B85-8EC063CD2BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDFizzBuzz.UnitTests", "TDDFizzBuzz.UnitTests\TDDFizzBuzz.UnitTests.csproj", "{3D76E479-C8A2-43E3-BECD-AF0559F17FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28FEC4E-0B61-418E-9B85-8EC063CD2BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28FEC4E-0B61-418E-9B85-8EC063CD2BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28FEC4E-0B61-418E-9B85-8EC063CD2BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28FEC4E-0B61-418E-9B85-8EC063CD2BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D76E479-C8A2-43E3-BECD-AF0559F17FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D76E479-C8A2-43E3-BECD-AF0559F17FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D76E479-C8A2-43E3-BECD-AF0559F17FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D76E479-C8A2-43E3-BECD-AF0559F17FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
