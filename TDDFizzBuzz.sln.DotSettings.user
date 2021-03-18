@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=53d250c6_002Def62_002D4629_002Da101_002Df36155e5ff76/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Play_ReturnsInputAsString" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;3D76E479-C8A2-43E3-BECD-AF0559F17FBE/f:UnitTest1.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>
