@@ -2,9 +2,9 @@ using System;
 
 namespace TDDFizzBuzz
 {
-    public class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
             var fizzBuzz = new FizzBuzz();
             for (var i = 1; i <= 100; i++)
